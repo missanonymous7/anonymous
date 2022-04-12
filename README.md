@@ -1,5 +1,5 @@
 # Anonymous
-Highly advance and best Telegram modular bo
+Highly advance and best Telegram modular bot
 
 <p align="center">
  <img src="https://te.legra.ph/file/931b2133f12878cdafb73.jpg">
