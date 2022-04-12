@@ -14,3 +14,8 @@ The easiest way to deploy this Bot
 
 # Noob developer
 <p align="center"><a href="https://t.me/Miss_anonymous_6?template=https://github.com/missanonymous7/anonymous"> <img src="https://img.shields.io/badge/Noob%20Anonymous-blue?style=for-the-badge&logo=Noob"width="220" height="38.45"/></a></p>
+
+# Join 
+ <p align="center"><a href="https://t.me/cool_editing_video?template=https://github.com/missanonymous7/anonymous"> <img src="https://img.shields.io/badge/Join%20Channel-purble?style=for-the-badge&logo=Join"width="220" height="38.45"/></a></p>
+
+
